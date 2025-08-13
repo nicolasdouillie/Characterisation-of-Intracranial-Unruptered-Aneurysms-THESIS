@@ -1,4 +1,4 @@
-# Characterisation-of-Intracranial-Unruptered-Aneurysms-THESIS
+# Characterisation of Unruptered Intracranial Aneurysms THESIS
 
 
 The compiled versions of VA-S as well as the characterization GUI can be found in this shared one-drive file:
